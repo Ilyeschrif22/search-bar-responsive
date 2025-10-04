@@ -26,13 +26,24 @@ body {
     color: var(--color-text);
 }
 
+.header-logo {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo img {
+    height: 50px;
+    width: auto;
+}
+
 .header {
     height: 64px;
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     background-color: var(--color-bg-black);
+
 }
 
 .search-bar {
