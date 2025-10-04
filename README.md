@@ -1,4 +1,4 @@
-# 🚀 Cards Template – From Scratch  
+# 🚀 Search Bar Template – From Scratch  
 
 ## 📖 About  
 This is a **Search Bar Template template** built completely from scratch using **HTML, CSS and JAVASCRIPT**.  
