@@ -150,12 +150,14 @@ body {
 }
 
 @media (max-width: 700px) {
+
+
     .search-bar {
-        width: 600px;
+        width: 400px;
     }
 
     .input {
-        width: 60%;
+        width: 50%;
     }
 
     .state-filters {
@@ -168,4 +170,5 @@ body {
         font-size: 12px;
         padding: 4px 8px;
     }
+
 }
